@@ -30,8 +30,8 @@
 
 Vincent Liu · Research Architecture Edition 1 · 2026 · [English](README.md)
 
-> *Langlands 对应不是一个双射。它是在单一整体底上的一个自对偶六函子几何上所取的迹在 π₀ 处的值。双射是把使它成立的一切
-> 都忘掉之后剩下的东西。*
+> *Langlands 对应不是一个双射。它是在单一整体底上的一个自对偶六函子几何上所取的迹在 π₀ 处的值。双射，不过是遗忘了
+> 令其成立的一切之后的残余。*
 > <br>— Preface
 
 《The Arithmetic Topos — Foundations of a Trace-Theoretic Approach to the Langlands Programme》是一部五卷合一的专著
