@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "The Arithmetic Topos"
+abstract: "Foundations of a Trace-Theoretic Approach to the Langlands Programme. A monograph in five volumes bound as one, a self-contained research subject of the Grothendieckian Programme: a geometry defined as a six-functor formalism with duality and a primitive trace theory, a specified global arithmetic curve over the integers, a Main Conjecture stating the automorphic spectrum of a reductive group over a number field as the twisted cyclic trace of an absolute Frobenius, eight corollaries with the hypotheses each consumes, a status ledger of one hundred and eleven items, seventeen falsification tests, and the companion package aletheia. This work does not prove the Langlands correspondence, and no case of its Main Conjecture is established unconditionally in it."
+authors:
+  - family-names: "Liu"
+    given-names: "Vincent"
+    email: "elsevier2012@hotmail.com"
+version: "1.0.0"
+date-released: "2026-10-25"
+doi: "10.5281/zenodo.23629681"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/AlienMuse/the-arithmetic-topos"
+keywords:
+  - "Langlands programme"
+  - "automorphic representations"
+  - "Galois representations"
+  - "six-functor formalism"
+  - "categorical trace"
+  - "Fargues–Fontaine curve"
+  - "condensed mathematics"
+  - "prismatic cohomology"
+  - "shifted symplectic geometry"
+  - "formal verification"
+  - "Grothendieckian Programme"
+  - "recursive mathematical discovery"
+  - "AI for mathematics"
+preferred-citation:
+  type: book
+  title: "The Arithmetic Topos — Foundations of a Trace-Theoretic Approach to the Langlands Programme"
+  authors:
+    - family-names: "Liu"
+      given-names: "Vincent"
+  year: 2026
+  edition: "Research Architecture Edition 1"
+  collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 07"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23629681"
+  url: "https://doi.org/10.5281/zenodo.23629681"

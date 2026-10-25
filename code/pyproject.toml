@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aletheia-arithmetic-topos"
+version = "0.1.0"
+description = "Finite reference models for The Arithmetic Topos"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Vincent Liu", organization = "WiseMotif.ai"}]
+license = {text = "Apache-2.0"}
+dependencies = []
+
+[project.scripts]
+aletheia = "aletheia.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["aletheia*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
