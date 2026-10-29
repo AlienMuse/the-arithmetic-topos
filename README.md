@@ -403,5 +403,6 @@ edition (see [ERRATA.md](ERRATA.md)).
   Series 04: <a href="https://github.com/AlienMuse/fractured-adelic-geometry"><i>Fractured Adelic Geometry</i></a> ·
   Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
   Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a><br>
+  The official site of Grothendieck Lab and of the Grothendieckian Programme: <a href="https://grothendiecklab.com">grothendiecklab.com</a><br>
   © 2026 Vincent Liu
 </sub></p>
